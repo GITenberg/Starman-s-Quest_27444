@@ -19,6 +19,8 @@ description: "Starman's Quest is a science fiction novel by American writer Robe
   \ Silverberg. It was published in 1958 by Gnome Press in an edition of 5,000 copies,\
   \ of which only 3,000 were bound. It was reprinted as a second edition in hardcover\
   \ by Meredith Press in 1969.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27444#Starman-s-Quest
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-12-07'
 gutenberg_type: Text
