@@ -1,0 +1,38 @@
+_repo: Starman-s-Quest_27444
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Mack, Stan
+    gutenberg_agent_id: '32694'
+    url: http://www.gutenberg.org/2009/agents/32694
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silverberg, Robert
+    birthdate: 1935
+    gutenberg_agent_id: '28358'
+    url: http://www.gutenberg.org/2009/agents/28358
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
+description: "Starman's Quest is a science fiction novel by American writer Robert\
+  \ Silverberg. It was published in 1958 by Gnome Press in an edition of 5,000 copies,\
+  \ of which only 3,000 were bound. It was reprinted as a second edition in hardcover\
+  \ by Meredith Press in 1969.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27444'
+  wikidata: Q7602114
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Starman's Quest
+url: http://www.gutenberg.org/ebooks/27444
+wikipedia:
+- https://en.wikipedia.org/wiki/Starman%27s_Quest
